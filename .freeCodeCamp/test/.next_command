@@ -32,3 +32,6 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo hello PostgreSQL
 psql --usernamefreecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
+git commit -m "Save 1"
+git push origin main
+git add .
